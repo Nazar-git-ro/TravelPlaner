@@ -1,0 +1,52 @@
+[
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "emoji": "☀️",
+    "tags": [
+      "culture",
+      "food",
+      "city"
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czechia",
+    "emoji": "🏰",
+    "tags": [
+      "architecture",
+      "history",
+      "city"
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "emoji": "🏛️",
+    "tags": [
+      "history",
+      "sun",
+      "culture"
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "emoji": "🚋",
+    "tags": [
+      "coast",
+      "food",
+      "city"
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "emoji": "🎻",
+    "tags": [
+      "music",
+      "architecture",
+      "culture"
+    ]
+  }
+]
